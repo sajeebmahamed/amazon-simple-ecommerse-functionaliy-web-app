@@ -12,3 +12,7 @@
 .product-info{
    margin-left: 50px;
 }
+.cart-btn{
+    padding: 8px;
+    background-color: goldenrod;
+}
